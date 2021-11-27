@@ -16,4 +16,9 @@ class ExampleUnitTest {
         assertEquals(4, 2 + 2)
 //        assertEquals(5, 2 + 2)
     }
+
+    @Test
+    fun pow_number() {
+        assertEquals(4, 2 * 2)
+    }
 }
