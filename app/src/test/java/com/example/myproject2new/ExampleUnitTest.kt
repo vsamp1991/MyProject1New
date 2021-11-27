@@ -1,4 +1,4 @@
-package com.example.myproject1new
+package com.example.myproject2new
 
 import org.junit.Test
 
@@ -13,5 +13,7 @@ class ExampleUnitTest {
     @Test
     fun addition_isCorrect() {
         assertEquals(4, 2 + 2)
+        assertEquals(4, 2 + 2)
+//        assertEquals(5, 2 + 2)
     }
 }
